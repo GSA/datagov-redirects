@@ -1,5 +1,5 @@
-app_name: www-redirects
+app_name: datagov-redirects
 instances: 0
 memory: 64M
 routes:
-  - route: www-redirects-dev-datagov.app.cloud.gov
+  - route: redirects-dev-datagov.app.cloud.gov
