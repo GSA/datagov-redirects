@@ -1,0 +1,9 @@
+app_name: datagov-redirects
+instances: 2
+memory: 64M
+routes:
+  - route: redirects-prod-datagov.app.cloud.gov
+  - route: climate.data.gov
+  - route: dashboard.data.gov
+  # - route: federation.data.gov
+  - route: www.data.gov
